@@ -20,3 +20,7 @@ Only run it if you're sure you want to wipe all Docker data.
 1. **Make the script executable:**
    ```bash
    chmod +x clean-docker.sh
+
+2. **Run the script:**
+   ```bash
+   ./clean-docker.sh
